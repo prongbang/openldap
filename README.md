@@ -13,7 +13,7 @@ http://192.168.99.100:8088
 ```
 
 ```
-Username: cn=admin,dc=kontextwork,dc=com
+Username: cn=admin,dc=example,dc=org
 Password: admin
 ```
 OR
